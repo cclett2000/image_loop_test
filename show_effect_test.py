@@ -86,7 +86,7 @@ def show_blue_fire():
 def show_blue_proto():
     # variables
     file_path = "img/q3_proto_blue"
-    window_name = "Blue Flame Effect Test"
+    window_name = "Blue Proto Effect Test"
 
     # generate list of textures in '/q3_fire_blue'
     file_names = os.listdir(os.path.abspath(file_path))
@@ -108,7 +108,7 @@ def show_blue_proto():
 def show_zap_scroll():
     # variables
     file_path = "img/q3_zap_scroll"
-    window_name = "Blue Flame Effect Test"
+    window_name = "Zap Scroll Effect Test"
 
     # generate list of textures in '/q3_fire_blue'
     file_names = os.listdir(os.path.abspath(file_path))
@@ -132,7 +132,7 @@ def show_zap_scroll():
 def show_tele_blue():
     # variables
     file_path = "img/q3_tele_blue"
-    window_name = "Blue Flame Effect Test"
+    window_name = "Blue Teleport Effect Test"
 
     # generate list of textures in '/q3_fire_blue'
     file_names = os.listdir(os.path.abspath(file_path))
@@ -154,7 +154,7 @@ def show_tele_blue():
 def show_explosion1():
     # variables
     file_path = "img/q3_explosion1"
-    window_name = "Blue Flame Effect Test"
+    window_name = "Explosion1 Effect Test"
 
     # generate list of textures in '/q3_fire_blue'
     file_names = os.listdir(os.path.abspath(file_path))
