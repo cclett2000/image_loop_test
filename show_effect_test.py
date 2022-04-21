@@ -29,7 +29,8 @@
 import cv2
 import os
 
-effect_type = 5
+# 0 - 5
+effect_type = 0
 
 # 0 = wait for input, > 0 = change every specified ms
 # I assumed that the refresh rate in game is 20fps for flame effect
