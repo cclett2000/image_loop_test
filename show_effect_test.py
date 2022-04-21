@@ -15,6 +15,10 @@
 #   and create a way of looping them. This will be no where near as nice as how I assume ID software
 #   animated effects in game but I feel like it's a nice little thing to test;
 
+# DISCLAIMER
+#   All images included in this program were created solely by ID Software and are only included
+#   for demonstration purposes.;
+
 # Package(s)
 #   - opencv-python (cv2) - computer vision?;
 
