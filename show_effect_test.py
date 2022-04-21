@@ -48,7 +48,7 @@ def show_norm_fire():
     file_names = os.listdir(os.path.abspath(file_path))
 
     # create window for use throughout execution
-    cv2.namedWindow(window_name, cv2.WINDOW_NORMAL)
+    cv2.namedWindow(window_name, cv2.WINDOW_AUTOSIZE)
 
     # loop for displaying textures
     while True:
@@ -70,7 +70,7 @@ def show_blue_fire():
     file_names = os.listdir(os.path.abspath(file_path))
 
     # create window for use throughout execution
-    cv2.namedWindow(window_name, cv2.WINDOW_NORMAL)
+    cv2.namedWindow(window_name, cv2.WINDOW_AUTOSIZE)
 
     # loop for displaying textures
     while True:
@@ -93,7 +93,7 @@ def show_blue_proto():
     file_names = os.listdir(os.path.abspath(file_path))
 
     # create window for use throughout execution
-    cv2.namedWindow(window_name, cv2.WINDOW_NORMAL)
+    cv2.namedWindow(window_name, cv2.WINDOW_AUTOSIZE)
 
     # loop for displaying textures
     while True:
@@ -115,7 +115,7 @@ def show_zap_scroll():
     file_names = os.listdir(os.path.abspath(file_path))
 
     # create window for use throughout execution
-    cv2.namedWindow(window_name, cv2.WINDOW_NORMAL)
+    cv2.namedWindow(window_name, cv2.WINDOW_AUTOSIZE)
 
     # loop for displaying textures
     while True:
@@ -139,7 +139,7 @@ def show_tele_blue():
     file_names = os.listdir(os.path.abspath(file_path))
 
     # create window for use throughout execution
-    cv2.namedWindow(window_name, cv2.WINDOW_NORMAL)
+    cv2.namedWindow(window_name, cv2.WINDOW_AUTOSIZE)
 
     # loop for displaying textures
     while True:
@@ -161,7 +161,7 @@ def show_explosion1():
     file_names = os.listdir(os.path.abspath(file_path))
 
     # create window for use throughout execution
-    cv2.namedWindow(window_name, cv2.WINDOW_NORMAL)
+    cv2.namedWindow(window_name, cv2.WINDOW_AUTOSIZE)
 
     # loop for displaying textures
     while True:
